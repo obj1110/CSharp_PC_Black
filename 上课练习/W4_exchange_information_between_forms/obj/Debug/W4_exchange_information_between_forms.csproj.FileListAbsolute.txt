@@ -1,0 +1,10 @@
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\bin\Debug\W4_exchange_information_between_forms.exe.config
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\bin\Debug\W4_exchange_information_between_forms.exe
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\bin\Debug\W4_exchange_information_between_forms.pdb
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.csprojResolveAssemblyReference.cache
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.FormMain.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.Form_Sub.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.Properties.Resources.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.csproj.GenerateResource.Cache
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.exe
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_exchange_information_between_forms\obj\Debug\W4_exchange_information_between_forms.pdb

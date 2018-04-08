@@ -1,0 +1,9 @@
+c:\users\ren\documents\visual studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\bin\Debug\打字游戏.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\bin\Debug\打字游戏.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\bin\Debug\打字游戏.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\obj\Debug\打字游戏.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\obj\Debug\打字游戏.Form_Box.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\obj\Debug\打字游戏.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\obj\Debug\打字游戏.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\obj\Debug\打字游戏.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\打字游戏\obj\Debug\打字游戏.pdb

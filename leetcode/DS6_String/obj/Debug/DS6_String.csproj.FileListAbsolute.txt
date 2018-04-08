@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\bin\Debug\DS6_String.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\bin\Debug\DS6_String.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\bin\Debug\DS6_String.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\bin\Debug\DS6_String.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\bin\Debug\DS6_String.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\obj\Debug\DS6_String.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\obj\Debug\DS6_String.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS6_String\obj\Debug\DS6_String.pdb

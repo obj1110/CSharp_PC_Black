@@ -1,0 +1,11 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\bin\Debug\netcoreapp2.0\BS_事件2.deps.json
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\bin\Debug\netcoreapp2.0\BS_事件2.runtimeconfig.json
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\bin\Debug\netcoreapp2.0\BS_事件2.runtimeconfig.dev.json
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\bin\Debug\netcoreapp2.0\BS_事件2.dll
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\bin\Debug\netcoreapp2.0\BS_事件2.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\obj\Debug\netcoreapp2.0\BS_事件2.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\obj\Debug\netcoreapp2.0\BS_事件2.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\obj\Debug\netcoreapp2.0\BS_事件2.AssemblyInfoInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\obj\Debug\netcoreapp2.0\BS_事件2.AssemblyInfo.cs
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\obj\Debug\netcoreapp2.0\BS_事件2.dll
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件2\obj\Debug\netcoreapp2.0\BS_事件2.pdb

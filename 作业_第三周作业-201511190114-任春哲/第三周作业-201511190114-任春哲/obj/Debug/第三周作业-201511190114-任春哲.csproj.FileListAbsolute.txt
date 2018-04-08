@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\bin\Debug\第三周作业-201511190114-任春哲.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\obj\Debug\第三周作业-201511190114-任春哲.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\obj\Debug\第三周作业_201511190114_任春哲.Form_Main.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\obj\Debug\第三周作业_201511190114_任春哲.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\obj\Debug\第三周作业-201511190114-任春哲.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\obj\Debug\第三周作业-201511190114-任春哲.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\obj\Debug\第三周作业-201511190114-任春哲.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\bin\Debug\第三周作业-201511190114-任春哲.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周作业-201511190114-任春哲\第三周作业-201511190114-任春哲\bin\Debug\第三周作业-201511190114-任春哲.pdb

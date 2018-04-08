@@ -1,0 +1,7 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\obj\Debug\BS_事件7.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\obj\Debug\BS_事件7.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

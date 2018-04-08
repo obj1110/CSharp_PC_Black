@@ -1,0 +1,7 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\bin\Debug\BS_事件3.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\bin\Debug\BS_事件3.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\bin\Debug\BS_事件3.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\obj\Debug\BS_事件3.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\obj\Debug\BS_事件3.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\obj\Debug\BS_事件3.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件3\obj\Debug\BS_事件3.pdb

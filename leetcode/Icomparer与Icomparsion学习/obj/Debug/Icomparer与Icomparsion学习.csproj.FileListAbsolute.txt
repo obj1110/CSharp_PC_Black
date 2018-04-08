@@ -1,0 +1,2 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Icomparer与Icomparsion学习\bin\Debug\Icomparer与Icomparsion学习.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Icomparer与Icomparsion学习\obj\Debug\Icomparer与Icomparsion学习.csprojResolveAssemblyReference.cache

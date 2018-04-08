@@ -1,0 +1,4 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS_基于List实现二维数组\bin\Debug\DS_基于List实现二维数组.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS_基于List实现二维数组\obj\Debug\DS_基于List实现二维数组.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS_基于List实现二维数组\obj\Debug\DS_基于List实现二维数组.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS_基于List实现二维数组\obj\Debug\BS_List的嵌套实现.csproj.CoreCompileInputs.cache

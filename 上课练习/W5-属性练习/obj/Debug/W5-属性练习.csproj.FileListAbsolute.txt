@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\bin\Debug\W5-属性练习.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\obj\Debug\W5-属性练习.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\obj\Debug\W5_属性练习.Form1.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\obj\Debug\W5_属性练习.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\obj\Debug\W5-属性练习.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\bin\Debug\W5-属性练习.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\bin\Debug\W5-属性练习.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\obj\Debug\W5-属性练习.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\W5-属性练习\obj\Debug\W5-属性练习.pdb

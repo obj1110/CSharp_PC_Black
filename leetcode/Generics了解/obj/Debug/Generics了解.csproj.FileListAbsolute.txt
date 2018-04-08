@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\bin\Debug\Generics了解.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\bin\Debug\Generics了解.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\bin\Debug\Generics了解.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\bin\Debug\Generics了解.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\bin\Debug\Generics了解.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\obj\Debug\Generics了解.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\obj\Debug\Generics了解.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\Generics了解\obj\Debug\Generics了解.pdb

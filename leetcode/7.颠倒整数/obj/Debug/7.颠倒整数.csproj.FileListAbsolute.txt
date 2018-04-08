@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\bin\Debug\7.颠倒整数.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\bin\Debug\7.颠倒整数.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\bin\Debug\7.颠倒整数.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\obj\Debug\7.颠倒整数.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\obj\Debug\7.颠倒整数.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\obj\Debug\7.颠倒整数.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\bin\Debug\7.颠倒整数.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\bin\Debug\7.颠倒整数.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\7.颠倒整数\obj\Debug\7.颠倒整数.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\bin\Debug\BS_委托.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\bin\Debug\BS_委托.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\bin\Debug\BS_委托.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\obj\Debug\BS_委托.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\obj\Debug\BS_委托.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\obj\Debug\BS_委托.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\bin\Debug\BS_委托.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_委托\bin\Debug\BS_委托.exe.lastcodeanalysissucceeded

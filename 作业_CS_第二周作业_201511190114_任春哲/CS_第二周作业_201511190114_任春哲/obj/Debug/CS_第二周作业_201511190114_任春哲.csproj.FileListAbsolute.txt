@@ -1,0 +1,12 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\bin\Debug\CS_第二周作业_201511190114_任春哲.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\bin\Debug\CS_第二周作业_201511190114_任春哲.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\bin\Debug\CS_第二周作业_201511190114_任春哲.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.Form1.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.Form2.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.FormMain.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\CS_第二周作业_201511190114_任春哲\CS_第二周作业_201511190114_任春哲\obj\Debug\CS_第二周作业_201511190114_任春哲.FormTutorial.resources

@@ -1,0 +1,2 @@
+C:\Users\Ren\documents\visual studio 2015\Projects\leetcode\3 最大子串\bin\Debug\3 最大子串.exe.config
+C:\Users\Ren\documents\visual studio 2015\Projects\leetcode\3 最大子串\obj\Debug\3 最大子串.csprojResolveAssemblyReference.cache

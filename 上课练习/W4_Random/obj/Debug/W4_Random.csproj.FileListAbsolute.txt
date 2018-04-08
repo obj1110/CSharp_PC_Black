@@ -1,0 +1,8 @@
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\bin\Debug\W4_Random.exe.config
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\bin\Debug\W4_Random.exe
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\bin\Debug\W4_Random.pdb
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\obj\Debug\W4_Random.Properties.Resources.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\obj\Debug\W4_Random.csproj.GenerateResource.Cache
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\obj\Debug\W4_Random.exe
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\obj\Debug\W4_Random.pdb
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Random\obj\Debug\W4_Random.csprojResolveAssemblyReference.cache

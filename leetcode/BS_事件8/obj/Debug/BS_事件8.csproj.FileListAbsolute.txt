@@ -1,0 +1,7 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\bin\Debug\BS_事件8.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\bin\Debug\BS_事件8.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\bin\Debug\BS_事件8.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\obj\Debug\BS_事件8.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\obj\Debug\BS_事件8.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\obj\Debug\BS_事件8.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件8\obj\Debug\BS_事件8.pdb

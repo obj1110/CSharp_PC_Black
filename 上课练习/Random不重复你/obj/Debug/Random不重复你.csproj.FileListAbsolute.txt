@@ -1,0 +1,5 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\Random不重复你\bin\Debug\Random不重复你.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\Random不重复你\bin\Debug\Random不重复你.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\Random不重复你\bin\Debug\Random不重复你.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\Random不重复你\obj\Debug\Random不重复你.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\Random不重复你\obj\Debug\Random不重复你.pdb

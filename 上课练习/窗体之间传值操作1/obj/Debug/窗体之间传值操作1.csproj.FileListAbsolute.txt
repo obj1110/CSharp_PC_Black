@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\bin\Debug\窗体之间传值操作1.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\obj\Debug\窗体之间传值操作1.Form1.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\obj\Debug\窗体之间传值操作1.Form2.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\obj\Debug\窗体之间传值操作1.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\obj\Debug\窗体之间传值操作1.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\bin\Debug\窗体之间传值操作1.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\bin\Debug\窗体之间传值操作1.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\obj\Debug\窗体之间传值操作1.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\上课练习\窗体之间传值操作1\obj\Debug\窗体之间传值操作1.pdb

@@ -1,0 +1,10 @@
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\bin\Debug\W4_Forms_exchange.exe.config
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\bin\Debug\W4_Forms_exchange.exe
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\bin\Debug\W4_Forms_exchange.pdb
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.Form1.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.FormMain.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.Properties.Resources.resources
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.csproj.GenerateResource.Cache
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.exe
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.pdb
+c:\Users\Ren\documents\visual studio 2015\Projects\上课练习\W4_Forms_exchange\obj\Debug\W4_Forms_exchange.csprojResolveAssemblyReference.cache

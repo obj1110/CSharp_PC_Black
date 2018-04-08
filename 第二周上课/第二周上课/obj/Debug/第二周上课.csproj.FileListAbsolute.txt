@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\bin\Debug\第二周上课.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\bin\Debug\第二周上课.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\bin\Debug\第二周上课.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\obj\Debug\第二周上课.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\obj\Debug\第二周上课.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\obj\Debug\第二周上课.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\obj\Debug\第二周上课.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第二周上课\第二周上课\obj\Debug\第二周上课.pdb

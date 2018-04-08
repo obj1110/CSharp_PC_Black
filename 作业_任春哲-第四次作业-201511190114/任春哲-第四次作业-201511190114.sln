@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningDog", "任春哲-第四次作业-201511190114\RunningDog.csproj", "{3F5792BA-3F9A-44C8-8A5E-3E191E22407F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "移动label_上课练习", "移动label_上课练习\移动label_上课练习.csproj", "{338490F8-A299-42EB-A879-AC1F802A0195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "打字游戏", "打字游戏\打字游戏.csproj", "{4A111D62-0EC7-4DA9-A7DB-0DB056C00277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5792BA-3F9A-44C8-8A5E-3E191E22407F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5792BA-3F9A-44C8-8A5E-3E191E22407F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5792BA-3F9A-44C8-8A5E-3E191E22407F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5792BA-3F9A-44C8-8A5E-3E191E22407F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338490F8-A299-42EB-A879-AC1F802A0195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338490F8-A299-42EB-A879-AC1F802A0195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338490F8-A299-42EB-A879-AC1F802A0195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338490F8-A299-42EB-A879-AC1F802A0195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A111D62-0EC7-4DA9-A7DB-0DB056C00277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A111D62-0EC7-4DA9-A7DB-0DB056C00277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A111D62-0EC7-4DA9-A7DB-0DB056C00277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A111D62-0EC7-4DA9-A7DB-0DB056C00277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

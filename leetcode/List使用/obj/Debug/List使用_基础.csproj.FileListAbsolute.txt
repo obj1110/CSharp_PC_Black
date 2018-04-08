@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\bin\Debug\List使用.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\bin\Debug\List使用.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\bin\Debug\List使用.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\bin\Debug\List使用.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\bin\Debug\List使用.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\obj\Debug\List使用_基础.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\obj\Debug\List使用_基础.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\obj\Debug\List使用.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\List使用\obj\Debug\List使用.pdb

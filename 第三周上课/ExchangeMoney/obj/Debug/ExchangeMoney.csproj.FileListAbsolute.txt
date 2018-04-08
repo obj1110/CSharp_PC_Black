@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\bin\Debug\ExchangeMoney.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\bin\Debug\ExchangeMoney.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\bin\Debug\ExchangeMoney.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\obj\Debug\ExchangeMoney.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\obj\Debug\ExchangeMoney.Form1.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\obj\Debug\ExchangeMoney.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\obj\Debug\ExchangeMoney.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\obj\Debug\ExchangeMoney.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\第三周上课\ExchangeMoney\obj\Debug\ExchangeMoney.pdb

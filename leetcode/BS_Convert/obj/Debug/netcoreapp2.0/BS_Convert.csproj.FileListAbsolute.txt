@@ -1,0 +1,11 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\bin\Debug\netcoreapp2.0\BS_Convert.deps.json
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\bin\Debug\netcoreapp2.0\BS_Convert.runtimeconfig.json
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\bin\Debug\netcoreapp2.0\BS_Convert.runtimeconfig.dev.json
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\bin\Debug\netcoreapp2.0\BS_Convert.dll
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\bin\Debug\netcoreapp2.0\BS_Convert.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\obj\Debug\netcoreapp2.0\BS_Convert.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\obj\Debug\netcoreapp2.0\BS_Convert.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\obj\Debug\netcoreapp2.0\BS_Convert.AssemblyInfoInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\obj\Debug\netcoreapp2.0\BS_Convert.AssemblyInfo.cs
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\obj\Debug\netcoreapp2.0\BS_Convert.dll
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_Convert\obj\Debug\netcoreapp2.0\BS_Convert.pdb

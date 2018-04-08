@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\bin\Debug\DS5_stack_queue.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\bin\Debug\DS5_stack_queue.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\bin\Debug\DS5_stack_queue.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\bin\Debug\DS5_stack_queue.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\bin\Debug\DS5_stack_queue.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\obj\Debug\DS5_stack_queue.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\obj\Debug\DS5_stack_queue.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS5_stack_queue\obj\Debug\DS5_stack_queue.pdb

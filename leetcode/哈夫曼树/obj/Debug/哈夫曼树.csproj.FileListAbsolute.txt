@@ -1,0 +1,6 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\哈夫曼树\bin\Debug\哈夫曼树.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\哈夫曼树\obj\Debug\哈夫曼树.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\哈夫曼树\bin\Debug\哈夫曼树.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\哈夫曼树\bin\Debug\哈夫曼树.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\哈夫曼树\obj\Debug\哈夫曼树.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\哈夫曼树\obj\Debug\哈夫曼树.pdb

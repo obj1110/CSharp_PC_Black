@@ -1,0 +1,9 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\bin\Release\任春哲-第四次作业-201511190114.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\bin\Release\任春哲-第四次作业-201511190114.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\bin\Release\任春哲-第四次作业-201511190114.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\obj\Release\任春哲_第四次作业_201511190114.Form1.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\obj\Release\任春哲_第四次作业_201511190114.Properties.Resources.resources
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\obj\Release\RunningDog.csproj.GenerateResource.Cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\obj\Release\任春哲-第四次作业-201511190114.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\obj\Release\任春哲-第四次作业-201511190114.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\任春哲-第四次作业-201511190114\任春哲-第四次作业-201511190114\obj\Release\RunningDog.csprojResolveAssemblyReference.cache

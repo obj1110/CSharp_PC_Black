@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\bin\Debug\DS2_顺序表.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\bin\Debug\DS2_顺序表.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\bin\Debug\DS2_顺序表.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\bin\Debug\DS2_顺序表.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\bin\Debug\DS2_顺序表.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\obj\Debug\DS2_顺序表.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\obj\Debug\DS2_顺序表.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\DS2_顺序表\obj\Debug\DS2_顺序表.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\bin\Debug\数据类型.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\bin\Debug\数据类型.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\bin\Debug\数据类型.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\bin\Debug\数据类型.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\bin\Debug\数据类型.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\obj\Debug\数据类型.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\obj\Debug\数据类型.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\数据类型\obj\Debug\数据类型.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\bin\Debug\BS_XX.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\bin\Debug\BS_XX.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\bin\Debug\BS_XX.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\bin\Debug\BS_XX.exe.CodeAnalysisLog.xml
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\bin\Debug\BS_XX.exe.lastcodeanalysissucceeded
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\obj\Debug\BS_XX.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\obj\Debug\BS_XX.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_XX\obj\Debug\BS_XX.pdb

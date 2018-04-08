@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn_datatable", "learn_controls\learn_datatable.csproj", "{6F9EE38D-1BFB-4753-8C0C-18A622E87842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn_dataTable2", "learn_dataTable2\learn_dataTable2.csproj", "{D9A8A5AA-B553-4BAD-97F5-97E631839193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_list", "Learn_list\Learn_list.csproj", "{80EEF68F-A12B-4F39-9E25-48F2C67931B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9EE38D-1BFB-4753-8C0C-18A622E87842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9EE38D-1BFB-4753-8C0C-18A622E87842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9EE38D-1BFB-4753-8C0C-18A622E87842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9EE38D-1BFB-4753-8C0C-18A622E87842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A8A5AA-B553-4BAD-97F5-97E631839193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A8A5AA-B553-4BAD-97F5-97E631839193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A8A5AA-B553-4BAD-97F5-97E631839193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A8A5AA-B553-4BAD-97F5-97E631839193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EEF68F-A12B-4F39-9E25-48F2C67931B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EEF68F-A12B-4F39-9E25-48F2C67931B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EEF68F-A12B-4F39-9E25-48F2C67931B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EEF68F-A12B-4F39-9E25-48F2C67931B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

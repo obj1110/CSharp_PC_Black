@@ -1,0 +1,6 @@
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件10\bin\Debug\BS_事件10.exe.config
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件10\bin\Debug\BS_事件10.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件10\bin\Debug\BS_事件10.pdb
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件10\obj\Debug\BS_事件10.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件10\obj\Debug\BS_事件10.exe
+C:\Users\Ren\Documents\Visual Studio 2015\Projects\leetcode\BS_事件10\obj\Debug\BS_事件10.pdb
