@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MapControlApplication1.Properties {
+namespace _201511190114_任春哲_第十周作业_鹰眼缩放.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

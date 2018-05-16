@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MapControlApplication1")]
+[assembly: AssemblyTitle("EngineWindowsApplication2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MapControlApplication1")]
+[assembly: AssemblyProduct("EngineWindowsApplication2")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ff59914b-aa26-4c4c-8ba5-c315f0396298")]
+[assembly: Guid("898ec8b3-3086-4924-b041-0ec2303873ea")]
 
 // Version information for an assembly consists of the following four values:
 //

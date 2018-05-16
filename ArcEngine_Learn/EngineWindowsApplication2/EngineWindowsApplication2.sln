@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapControlApplication1", "MapControlApplication1\MapControlApplication1.csproj", "{FF59914B-AA26-4C4C-8BA5-C315F0396298}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineWindowsApplication2", "EngineWindowsApplication2\EngineWindowsApplication2.csproj", "{898EC8B3-3086-4924-B041-0EC2303873EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF59914B-AA26-4C4C-8BA5-C315F0396298}.Debug|x86.ActiveCfg = Debug|x86
-		{FF59914B-AA26-4C4C-8BA5-C315F0396298}.Debug|x86.Build.0 = Debug|x86
-		{FF59914B-AA26-4C4C-8BA5-C315F0396298}.Release|x86.ActiveCfg = Release|x86
-		{FF59914B-AA26-4C4C-8BA5-C315F0396298}.Release|x86.Build.0 = Release|x86
+		{898EC8B3-3086-4924-B041-0EC2303873EA}.Debug|x86.ActiveCfg = Debug|x86
+		{898EC8B3-3086-4924-B041-0EC2303873EA}.Debug|x86.Build.0 = Debug|x86
+		{898EC8B3-3086-4924-B041-0EC2303873EA}.Release|x86.ActiveCfg = Release|x86
+		{898EC8B3-3086-4924-B041-0EC2303873EA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
