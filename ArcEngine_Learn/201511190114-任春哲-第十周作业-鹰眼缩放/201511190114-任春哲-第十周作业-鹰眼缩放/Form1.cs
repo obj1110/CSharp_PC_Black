@@ -31,6 +31,7 @@ namespace _201511190114_任春哲_第十周作业_鹰眼缩放
                     axMapControl1.Extent.YMax - axMapControl1.ActiveView.Extent.Height / 2); //获取图像的中心位置
                 axMapControl1.ActiveView.ScreenDisplay.RotateStart(pPoint, pCentrePoint); //开始旋转
             }
+
             if (e.button == 1)
             {
                 ISimpleLineSymbol pLineSym = new SimpleLineSymbol();
